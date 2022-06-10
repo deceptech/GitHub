@@ -5,3 +5,5 @@ This script prompts for a user provided command to run to on their local machine
 
 The steps for setting up an incoming Slack webhook can be found here:
 https://slack.com/help/articles/115005265063-Incoming-webhooks-for-Slack
+
+![slack-alert](https://user-images.githubusercontent.com/83108604/173144463-e3e09d8f-7be8-453f-9d5f-7693410cad7b.png)
